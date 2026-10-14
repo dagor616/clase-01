@@ -23,3 +23,4 @@ console.log(edadTexto + 1);
 const edadNumero = Number(edadTexto);
 console.log(Number(edadNumero + 1));
 
+//los comentarios de porque los resultado sson distintos es que en el primer caso como javascript es un meme(palabras del instructor alejandro).Cuando se va a sumar lo cuenta como si fuera otro digito y se encagetea(encageta).mientras que si se declara con number la variable si lo toma como numero y no como texto, haciendo esto que se sumen correctamente.//
